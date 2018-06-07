@@ -1,0 +1,27 @@
+body {
+  background: #771717;
+}
+
+.mainContainer,
+.navPusher,
+.navPusher > .docMainWrapper > .mainContainer {
+  background: #fff;
+}
+
+#footer {
+  background: #771717;
+}
+
+#footer .sitemap h5 {
+  /*font-size: 20px;*/
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Noto Serif", serif !important;
+  font-weight: 400 !important;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "thor-docs",
+  "version": "1.0.0",
+  "description": "The Thor Documentation",
+  "maintainers": ["Michael Staib", "Rafael Staib"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChilliCream/thor-docs"
+  },
+  "author": "ChilliCream",
+  "license": "MIT"
+}
