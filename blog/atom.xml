@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://thor.chillicream.com/blog</id>
+    <title>Thor Blog</title>
+    <updated>2018-05-03T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="http://thor.chillicream.com/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Thor news and events.</subtitle>
+    <logo>http://thor.chillicream.com/img/signet.svg</logo>
+    <rights>Copyright © 2018 ChilliCream</rights>
+    <entry>
+        <title type="html"><![CDATA[Releasing version 1.0.0]]></title>
+        <id>http://thor.chillicream.com/blog/2018/05/03/1.0.0.html</id>
+        <link href="http://thor.chillicream.com/blog/2018/05/03/1.0.0.html">
+        </link>
+        <updated>2018-05-03T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Today we proudly released the first version of <em>React Rasta</em>.</p>
+]]></summary>
+        <author>
+            <name>Rafael Staib</name>
+            <uri>https://github.com/rstaib</uri>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Thor Blog</title>
+        <link>http://thor.chillicream.com/blog</link>
+        <description>The best place to stay up-to-date with the latest Thor news and events.</description>
+        <lastBuildDate>Thu, 03 May 2018 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Thor Blog</title>
+            <url>http://thor.chillicream.com/img/signet.svg</url>
+            <link>http://thor.chillicream.com/blog</link>
+        </image>
+        <copyright>Copyright © 2018 ChilliCream</copyright>
+        <item>
+            <title><![CDATA[Releasing version 1.0.0]]></title>
+            <link>http://thor.chillicream.com/blog/2018/05/03/1.0.0.html</link>
+            <guid>http://thor.chillicream.com/blog/2018/05/03/1.0.0.html</guid>
+            <pubDate>Thu, 03 May 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Today we proudly released the first version of <em>React Rasta</em>.</p>
+]]></description>
+        </item>
+    </channel>
+</rss>
